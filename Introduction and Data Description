@@ -1,0 +1,19 @@
+### A. Introduction 
+
+#### 1) Introduction and Background Discussion
+Ontario is Canada’s second-largest province by area, covering more than one million square kilometers. The province is located in central Canada; it is bordered by Quebec to the east, Manitoba to the west, and the Great Lakes making up a part of its southern border with the United States. Ontario covers all types of landscapes, from the forested Canadian Shield, southern fertile farmland, and over 250,000 lakes. Moreover, Ottawa is Canada’s capital, in the east of southern Ontario, near the city of Montréal and the U.S. Ontario is a very diverse province. For example, 54.8% of the population of Toronto was born outside Canada, which is the second-largest percentage of immigrants in a single city on Earth. 
+
+Ontario has a very diverse and inclusive environment which is a new home for many international people. It is important for newcomers to familiarize themselves with the community and settle down with convenience. This analysis is providing those newcomers with details about housing prices and venues around to find the best accommodations that will perfectly suit them. 
+
+The main factors and criteria that will be considered in this project are 'Housing Prices' and 'Good Amenities'. Analysis of housing price will provide newcomers a big picture and general idea of the range of the price and see the comparisons between different areas in Ontario. Good amenities will ensure the newcomers have the access to what they need including restaurants, cafes, gyms, libraries, grocery stores, and so on. 
+
+#### 2) Data Description 
+The dataset regarding the housing prices in Ontarios is from Kaggle dataset - House Sales in Ontario. This is a .csv file that includes the listing prices for the sale of properties (mostly houses) in Ontario. The dataset includes the following fields: 
+   * Price in dollars
+   * Address of the property
+   * Latitude and Longitude of the address obtained by using Google Geocoding service
+   * Area Name of the property obtained by using Google Geocoding service
+
+In total, there are around 23500 houses in this dataset that will be cleaned and analyzed. 
+
+In additional to the housing price dataset, Foursquare API will be used to get the most common venues in Ontario. For example, the data will help in determine the unique types and quantity of venues across different areas in Ontario. This data set is essential in segmenting and clustering the different neighbourhoods inside Ontario. 
